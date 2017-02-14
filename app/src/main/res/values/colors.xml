@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimaryYellow">#fe9900</color>
+    <color name="colorPrimaryLight">#ddd</color>
+
+    <!--登录页-->
+    <color name="text_color_hint">#bbbbbb</color>
+    <color name="view_line_bg">#f3f3f4</color>
+    <color name="white">#fff</color>
+    <!--用户屏幕-->
+
+    <color name="text_black">#000</color>
+    <color name="text_red">#d51635</color>
+    <color name="title_border">#999</color>
+    <color name="list_border">#bcbcba</color>
+    <color name="order_list_count">#999</color>
+
+    <!--切换用户-->
+    <color name="text_color_base">#000000</color>
+    <!--<color name="text_color_selected">#fe9900</color>-->
+    <!--<color name="login_btn_color">#fe9900</color>-->
+    <color name="edit_text_hint">#9b9b9b</color>
+    <color name="border_color">#999999</color>
+    <color name="content_color">#eeeeee</color>
+    <color name="list_color">#f5f5f5</color>
+
+    <!--主体黄色-->
+    <color name="colorMainYellow">#FF9900</color>
+    <!--用作重要提示、警告类-->
+    <color name="colorAlertRed">#D51736</color>
+    <!--用作重要提示、警告类-->
+    <color name="colorDark1">#999999</color>
+    <color name="colorDark2">#BBBBBB</color>
+    <color name="colorDark3">#E2E2E2</color>
+    <color name="colorDark4">#EEEEEE</color>
+    <color name="colorDark5">#F5F5F5</color>
+
+    <!--重要文字字体-->
+    <color name="colorImportantFont">#1A1A1A</color>
+    <!--重要文字字体，但有深色背景-->
+    <color name="colorImportantFontHaveBack">#FDFDFD</color>
+    <!--辅助文字字体-->
+    <color name="colorSecondaryFont">#696969</color>
+    <!--辅助文字字体，但有深色背景-->
+    <color name="colorSecondaryFontHaveBack">#EEE</color>
+    <!--默认文字字体-->
+    <color name="colorDefaultFont">#A6A6A6</color>
+    <!--默认文字字体，但有深色背景-->
+    <color name="colorDefaultFontHaveBack">#A6A6A6</color>
+
+    <!--主要按钮背景颜色-->
+    <color name="colorMainBtnBack">#FF9900</color>
+    <!--主要按钮字体颜色-->
+    <color name="colorMainBtn">#FFF</color>
+    <!--主要按钮点击背景颜色-->
+    <color name="colorMainBtnTouchBack">#FFB039</color>
+    <!--主要按钮背景颜色-->
+    <color name="colorSecondaryBtnBack">#FFF</color>
+    <!--主要按钮字体颜色-->
+    <color name="colorSecondaryBtn">#1A1A1A</color>
+    <!--主要按钮点击背景颜色-->
+    <color name="colorSecondaryBtnTouchBack">#F5F5F5</color>
+    <!--主要按钮点击字体颜色-->
+    <color name="colorSecondaryBtnTouch">#A6A6A6</color>
+
+    <color name="colorSecondlineBtnTouch">#BBBBBB</color>
+
+    <!--文字按钮颜色-->
+    <color name="colorFontBtn">#FF9900</color>
+    <!--文字按钮点击颜色-->
+    <color name="colorFontBtnSelect">#EA8C00</color>
+
+
+    <color name="toolbar_bg_line">#CCBBBBBB</color>
+    <color name="order_bg_line">#BBBBBB</color>
+    <color name="display_bg">#CCF5F5F5</color>
+</resources>
